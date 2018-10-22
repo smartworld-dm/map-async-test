@@ -1,0 +1,14 @@
+{
+  "name": "map-async-test",
+  "version": "1.0.0",
+  "description": "JS app for map async",
+  "main": "index.js",
+  "author": "Smartworld-konoha",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "map-async": "^0.1.1"
+  }
+}
